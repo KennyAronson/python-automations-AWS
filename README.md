@@ -1,2 +1,3 @@
-# python-automations-AWS
-Repository for automating AWS workflows.
+# AWS Automations Project
+
+Repository for Python-based automations for the Dental Cloud Project
